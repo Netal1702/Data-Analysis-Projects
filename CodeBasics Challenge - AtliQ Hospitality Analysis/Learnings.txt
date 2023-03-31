@@ -1,0 +1,23 @@
+Completed challenge on codebasics (resume project challenge). Dataset consists of three months booking details of AtliQ Hotels from different cities.
+
+Challenge #1: Provide insights to revenue team in hospitality domain.
+
+Github repo link: https://lnkd.in/dig5Bq9W
+
+Tool used: Power BI
+
+Learnings things from this Project:
+- Choosing a good color palette according to the problem statement.
+- How to use different types of chart according to problem statement. chart which will be easy to understand and explain.
+- Use chart which will be easy to understand and explain.
+- Understanding problem statement & given data properly before proceeding to conclusions.
+
+Some Important insights from the Dashboard:
+- Most revenue is generated from Mumbai city by 39.1% (785M).
+- Hotels in Bangalore are most booked.
+- Total Revenue in 3 months from all hotels is ₹1.71 billion; average revenue generated is 14.92K .
+- In past three months total bookings are 134.59K and occupancy is 58.31% .
+- Delhi generates the lowest revenue.
+- Hotel AtliQ Blu has got highest ratings among others. Average ratings is 3.96 .
+- Max revenue generated among room categories is by RT2 by 32.84%.
+- Among booking platform, direct offline bookings count & ratings are less by 10K, where as, through other platforms there is max ratings by 84K.
